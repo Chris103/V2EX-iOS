@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  XYNodeController.h
 //  V2EX-iOS
 //
-//  Created by sean on 16/3/7.
+//  Created by sean on 16/3/23.
 //  Copyright © 2016年 usean. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface XYNodeController : UITableViewController
 
 @end
-
